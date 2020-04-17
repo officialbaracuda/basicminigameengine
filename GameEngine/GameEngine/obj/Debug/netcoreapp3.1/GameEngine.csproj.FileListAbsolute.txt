@@ -1,0 +1,11 @@
+C:\Users\Mehmet Demirci\Desktop\GameEngine\GameEngine\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.exe
+C:\Users\Mehmet Demirci\Desktop\GameEngine\GameEngine\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.deps.json
+C:\Users\Mehmet Demirci\Desktop\GameEngine\GameEngine\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.runtimeconfig.json
+C:\Users\Mehmet Demirci\Desktop\GameEngine\GameEngine\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.runtimeconfig.dev.json
+C:\Users\Mehmet Demirci\Desktop\GameEngine\GameEngine\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.dll
+C:\Users\Mehmet Demirci\Desktop\GameEngine\GameEngine\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.pdb
+C:\Users\Mehmet Demirci\Desktop\GameEngine\GameEngine\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.csprojAssemblyReference.cache
+C:\Users\Mehmet Demirci\Desktop\GameEngine\GameEngine\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.AssemblyInfoInputs.cache
+C:\Users\Mehmet Demirci\Desktop\GameEngine\GameEngine\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.AssemblyInfo.cs
+C:\Users\Mehmet Demirci\Desktop\GameEngine\GameEngine\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.dll
+C:\Users\Mehmet Demirci\Desktop\GameEngine\GameEngine\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.pdb
